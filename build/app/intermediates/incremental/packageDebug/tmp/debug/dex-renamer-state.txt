@@ -1,0 +1,4 @@
+#Sun Jun 04 09:34:01 EEST 2023
+base.0=/Users/jabko/Documents/refactor_test_task/test_task/test_3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
